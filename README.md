@@ -21,5 +21,5 @@ Use python and install dependencies
 
 
 ## Demo
-https://github.com/longnd-1038/shoppe-search-crawler/assets/68221273/56fa9398-001b-4370-a83d-ae0e645c8c5e
+[Click here to watch the video](https://github.com/longnd-1038/shoppe-search-crawler/raw/main/assets/68221273/56fa9398-001b-4370-a83d-ae0e645c8c5e)
 
