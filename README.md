@@ -1,5 +1,3 @@
-# Content of the README file
-readme_content = """
 # Shopee Product Scraper
 
 ## Introduction
@@ -21,5 +19,6 @@ Use python and install dependencies
 
 
 ## Demo
-[Click here to watch the video](https://github.com/longnd-1038/shoppe-search-crawler/raw/main/assets/68221273/56fa9398-001b-4370-a83d-ae0e645c8c5e)
+
+https://github.com/longnd-1038/shoppe-search-crawler/assets/68221273/a9ae4c1e-b06a-4bed-96ae-b3d677e6ac89
 
